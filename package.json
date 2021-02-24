@@ -1,0 +1,26 @@
+{
+  "name": "FileDownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcqk5/FileDownload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcqk5/FileDownload/issues"
+  },
+  "homepage": "https://github.com/arcqk5/FileDownload#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "firebase": "^8.2.9"
+  }
+}
